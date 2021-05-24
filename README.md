@@ -3,4 +3,4 @@ The dashboard is built using Tableau and it provides insights on the recent COVI
 
 URL to the Tableau Dashboard on my profile : https://tinyurl.com/waemb9s
 
-Analytical report link:  https://tinyurl.com/txpsbxy
+Analytical report link:  https://drive.google.com/file/d/16RSkND5j_fEmEwCIE0kDckA6NjqYDBlb/view
